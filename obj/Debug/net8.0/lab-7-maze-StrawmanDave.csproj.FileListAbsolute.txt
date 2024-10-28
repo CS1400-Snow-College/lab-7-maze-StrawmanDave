@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/bin/Debug/net8.0/lab-7-maze-StrawmanDave
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/bin/Debug/net8.0/lab-7-maze-StrawmanDave.deps.json
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/bin/Debug/net8.0/lab-7-maze-StrawmanDave.runtimeconfig.json
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/bin/Debug/net8.0/lab-7-maze-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/bin/Debug/net8.0/lab-7-maze-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/obj/Debug/net8.0/lab-7-maze-StrawmanDave.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/obj/Debug/net8.0/lab-7-maze-StrawmanDave.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/obj/Debug/net8.0/lab-7-maze-StrawmanDave.AssemblyInfo.cs
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/obj/Debug/net8.0/lab-7-maze-StrawmanDave.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/obj/Debug/net8.0/lab-7-maze-StrawmanDave.sourcelink.json
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/obj/Debug/net8.0/lab-7-maze-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/obj/Debug/net8.0/refint/lab-7-maze-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/obj/Debug/net8.0/lab-7-maze-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/obj/Debug/net8.0/lab-7-maze-StrawmanDave.genruntimeconfig.cache
+/home/david/david-progamming-1400/lab-7-maze-StrawmanDave/obj/Debug/net8.0/ref/lab-7-maze-StrawmanDave.dll
