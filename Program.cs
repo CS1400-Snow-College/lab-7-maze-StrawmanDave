@@ -1,5 +1,9 @@
 ﻿// David B. 10/28/24 Lab-7-Maze
+
+using System.Diagnostics;
 string[] mazeRows = File.ReadAllLines("map.txt");
+
+Stopwatch stopwatch = new Stopwatch();
 
 //Sets the cursor to the start of the maze
 int x = 0;
@@ -22,6 +26,8 @@ do
 {
     if(Console.ReadKey(true).Key == ConsoleKey.Escape)
     {
+        stopwatch.Stop();
+        stopwatch.Reset();
         mainMenu();
         printFileLines("map.txt");
         x = 0;
@@ -126,7 +132,7 @@ static bool tryMove(int x, int y, string direction, string[] maze)
     }
 }
 
-static void mainMenu()
+void mainMenu()
 {
 Console.Clear();
 Console.Write("This is a maze that getting to the '*' will complete the maze");
@@ -134,9 +140,10 @@ Console.WriteLine();
 Console.Write("Press any key to start");
 Console.ReadKey(true);
 Console.Clear();
+stopwatch.Start();
 }
 
-static void winMenu()
+void winMenu()
 {
     Console.Clear();
     Console.WriteLine();
@@ -145,5 +152,8 @@ static void winMenu()
     Console.Write("Congradualtions you made it through the maze!");
     Console.WriteLine();
     Console.Write("----------------------------------------------");
+    Console.WriteLine();
+    stopwatch.Stop();
+    Console.Write($"Your time getting through the maze {stopwatch}");
     Console.WriteLine();
 }
